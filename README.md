@@ -75,7 +75,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-[Specify your License here, e.g., MIT License]
+[MIT License]
 
 ## Author
 
